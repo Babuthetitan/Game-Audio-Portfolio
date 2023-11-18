@@ -1,0 +1,16 @@
+Portfolio links
+
+1.Sound design reel- https://vimeo.com/817769111
+
+2. Indie project game audio- https://www.youtube.com/watch?v=hIrofieDqhw
+
+3. https://github.com/Babuthetitan/Audio-Programmer-demo
+(This is a demo of my personal indie game that I am currently developing with Unity 
+and Wwise. it contains all my scrips from gameplay all the way to audio and a custom 
+in house wwise plugin I built to drive the implementation process- feel free to 'play the game' too)
+
+4. Unreal engine demo- https://github.com/Babuthetitan/CubeShooterFPS-demo
+(Feel free to play my game in Unreal engine 5, there is some documentation attached in the repository)
+
+
+5. Portfolio personal project- https://oldmanstudios.io/
